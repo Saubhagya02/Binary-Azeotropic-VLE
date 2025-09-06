@@ -33,6 +33,9 @@ The **Baseline ANN** proved superior for the main objective of azeotrope detecti
 ### Baseline ANN Model
 
 **Azeotrope Prediction (y-x Diagram):**
+
+![Baseline Prediction](Result/Predictionbaseline.png)
+
 *The baseline model successfully identifies an azeotrope close to the literature value.*
 
 **Training & Validation Loss:**
