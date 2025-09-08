@@ -39,6 +39,9 @@ The **Baseline ANN** proved superior for the main objective of azeotrope detecti
 *The baseline model successfully identifies an azeotrope close to the literature value.*
 
 **Training & Validation Loss:**
+
+![Baseline Prediction](Result/Modellossbaseline.png)
+
 *The loss curves converge smoothly, indicating good model training.*
 
 ### Improved ANN Model
