@@ -47,6 +47,9 @@ The **Baseline ANN** proved superior for the main objective of azeotrope detecti
 ### Improved ANN Model
 
 **Azeotrope Prediction (y-x Diagram):**
+
+![Improved Prediction](Result/Improvmodeloutput.png)
+
 *The improved model fits the data very closely but fails to find the azeotrope, suggesting overfitting.*
 
 **Training & Validation Loss:**
