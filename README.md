@@ -58,6 +58,17 @@ The **Baseline ANN** proved superior for the main objective of azeotrope detecti
 
 *The training loss drops rapidly to near zero, while the validation loss plateaus, which can be a sign of overfitting.*
 
+### Improved Model Version 2 (Fixed Overfitting)
+
+**Azeotrope Prediction (y-x Diagram):**
+
+
+This version has fixed the Overfitting problem which exists in the version 1 of improved model
+
+**Training & Validation Loss:**
+
+
+*The loss curves converge smoothly, indicating good model training.*
 ## How to Run the Project
 
 To replicate this project, follow the steps below:
