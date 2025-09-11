@@ -62,7 +62,7 @@ The **Baseline ANN** proved superior for the main objective of azeotrope detecti
 
 **Azeotrope Prediction (y-x Diagram):**
 
-
+![Improved Prediction](Result/improvmodelver2.png)
 
 This version has fixed the Overfitting problem which exists in the version 1 of improved model
 
